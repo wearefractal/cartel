@@ -1,0 +1,26 @@
+{
+   "name":"cartel",
+   "description":"CLI for automatically logging in at cartel coffee shops",
+   "version":"0.0.1",
+   "homepage":"http://github.com/wearefractal/cartel",
+   "repository":"git://github.com/wearefractal/cartel.git",
+   "author":"Fractal <contact@wearefractal.com> (http://wearefractal.com/)",
+   "main":"./index.js",
+   "bin":{
+      "cartel":"./bin/cartel.js"
+   },
+
+   "dependencies":{
+      "request":"*"
+   },
+
+   "engines":{
+      "node":">= 0.4.0"
+   },
+   "licenses":[
+      {
+         "type":"MIT",
+         "url":"http://github.com/wearefractal/cartel/raw/master/LICENSE"
+      }
+   ]
+}
