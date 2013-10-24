@@ -1,5 +1,5 @@
 {
-   "name":"cartel",
+   "name":"cartel-cli",
    "description":"CLI for automatically logging in at cartel coffee shops",
    "version":"0.0.1",
    "homepage":"http://github.com/wearefractal/cartel",

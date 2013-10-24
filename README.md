@@ -1,10 +1,10 @@
-[![NPM version](https://badge.fury.io/js/cartel.png)](http://badge.fury.io/js/cartel)
+[![NPM version](https://badge.fury.io/js/cartel-cli.png)](http://badge.fury.io/js/cartel-cli)
 
 ## Information
 
 <table>
 <tr> 
-<td>Package</td><td>cartel</td>
+<td>Package</td><td>cartel-cli</td>
 </tr>
 <tr>
 <td>Description</td>
@@ -19,7 +19,7 @@
 ## Usage
 
 ```
-$ npm install cartel -g
+$ npm install cartel-cli -g
 $ cartel
 ```
 
